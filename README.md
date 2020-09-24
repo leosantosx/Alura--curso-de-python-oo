@@ -1,2 +1,2 @@
 # Alura- curso de python oo
- Projeto do cuso de Aython da Alura
+ Projeto do cuso de Python da Alura
