@@ -39,11 +39,3 @@ class Serie(Programa):
     def __str__(self):
         return f'{super().__str__()} - Temporadas: {self.temporadas}'
 
-if __name__ == '__main__':
-    vingadores = Filme('vingadores', 2018, 160)
-    atlanta = Serie('atlanta', 2018, 2)
-
-    lista = [vingadores, atlanta]
-    for programa in lista:
-        print(programa)
-
